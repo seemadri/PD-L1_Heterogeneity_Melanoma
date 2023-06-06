@@ -1,2 +1,4 @@
 # PD-L1_Heterogeneity_Melanoma
-Dynamical modelling of proliferative-invasive plasticity and IFNγ signaling in melanoma reveals mechanisms of PD-L1 expression heterogeneity
+Phenotypic Heterogeneity and Immunosuppression in Melanoma
+# Abstract
+This repository contains the code and data associated with the research paper titled **"Dynamical modelling of proliferative-invasive plasticity and IFNγ signaling in melanoma reveals mechanisms of PD-L1 expression heterogeneity".** The study explores the mechanisms behind the diverse phenotypic heterogeneity observed in melanoma cells, which contributes to drug tolerance, increased metastasis, and immune evasion. The repository includes the minimal core regulatory network model and transcriptomics data analysis related codes used to validate the model predictions. This comprehensive approach sheds light on the control of PD-L1 expression by proliferative-invasive plasticity, and IFNγ signaling, offering insights for the development of combinatorial therapies and improved clinical management of therapy-resistant and metastatic melanoma.
